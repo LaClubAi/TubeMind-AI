@@ -1,0 +1,5 @@
+{
+  "name": "TubeMind AI",
+  "description": "Professional YouTube video analysis tool using Gemini to extract insights, summarize content, generate articles, and brainstorm creative video concepts.",
+  "requestFramePermissions": []
+}
